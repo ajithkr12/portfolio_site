@@ -259,7 +259,7 @@ section{
 }
 
 .about .skill .row .box-container{
-   flex:1 1 20rem;
+   flex:1 30rem;
 }
 
 .about .skill .row .box-container .title{
