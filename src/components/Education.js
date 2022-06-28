@@ -40,7 +40,7 @@ function Education() {
                         <div className="box" data-aos="fade-right">
                            <span>{abc.Time} | {abc.Company}</span>
                            <h3>{abc.Position}</h3>
-                           <span> . </span>
+//                            <span> . </span>
                            <p>{abc.Details}</p>
                         </div>)})
                }
