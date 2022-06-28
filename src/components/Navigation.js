@@ -70,9 +70,9 @@ export default function Navigation() {
               ))}
             </motion.div>
                        <motion.div className="follow">
-           <a href="#" class="fab fa-facebook-f"/>
-              <a href="#" class="fab fa-twitter"/>
-              <a href="#" class="fab fa-instagram"/>
+//            <a href="#" class="fab fa-facebook-f"/>
+//               <a href="#" class="fab fa-twitter"/>
+//               <a href="#" class="fab fa-instagram"/>
               <a href="#" class="fab fa-linkedin"/>
              <a href="#" class="fab fa-github"/>
             </motion.div> 
