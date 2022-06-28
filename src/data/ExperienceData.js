@@ -3,7 +3,7 @@ export const ExpData =[
       "Time": "( SEP 2021 - Present )",
       "Company":"Tinqbit PVT LTD",
       "Position": "Reactjs developer",
-      "Details":"Oversaw and assisted in the execution of front end works.Create reusable code for prospects.Translate wireframes and designs into good quality code."
+      "Details":"Assisted in the execution of front end works.Translate wireframes and designs into good quality code."
     },
     {
       "Time": "( JULY 2015 - SEP 2017)",
