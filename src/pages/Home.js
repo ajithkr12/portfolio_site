@@ -14,7 +14,7 @@ function Home() {
             <div className="content">
                 <h3 data-aos="fade-up">hi, i am ajith k r</h3>
                 <span data-aos="fade-up">Reactjs developer & Embedded system Designer</span>
-                <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis labore recusandae minima molestias aliquam nostrum.</p>
+                <p data-aos="fade-up">To secure a challenging position in a reputable organization to expand my learning, knowledge, and skills.</p>
                 <a data-aos="fade-up" href="#about" className="btn">about me</a>
             </div>
 
