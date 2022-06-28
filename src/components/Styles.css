@@ -96,7 +96,7 @@ section{
    padding:1rem 3rem;
    border:var(--border-light);
    font-size: 2rem;
-   background: none;
+   background-color: var(--black);
 }
 
 .btn:hover{
