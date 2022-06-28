@@ -73,8 +73,8 @@ export default function Navigation() {
 //            <a href="#" class="fab fa-facebook-f"/>
 //               <a href="#" class="fab fa-twitter"/>
 //               <a href="#" class="fab fa-instagram"/>
-              <a href="#" class="fab fa-linkedin"/>
-             <a href="#" class="fab fa-github"/>
+              <a href="https://www.linkedin.com/in/ajith-kr/" class="fab fa-linkedin"/>
+             <a href="https://github.com/ajithkr12" class="fab fa-github"/>
             </motion.div> 
           </motion.aside>
         )}
