@@ -8,8 +8,8 @@ export const SkData =[
     {
       "skill": "Libraries & TOOLS",
       "dec1": "Reactjs | Nodejs(beginning)",
-      "dec2":"OpenCV | TensorFlow | Keras | Matplotlib",
-      "dec3":"VS Code | Keil uVision | AVR Studio"
+      "dec2":"VS Code | git | Linux",
+      "dec3":"OpenCV | TensorFlow | Keras | Matplotlib",
     },
     {
       "skill": "Hardware & Design Tools",
