@@ -8,7 +8,6 @@ function Biography() {
         <h1 className="heading" data-aos="fade-up"> <span>biography</span> </h1>
 
         <div className="biography">
-            <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis tenetur amet ab optio minus est error libero adipisci numquam ratione.</p>
 
             <div className="bio">
 
