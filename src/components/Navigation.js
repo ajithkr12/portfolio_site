@@ -6,7 +6,7 @@ import { AnimatePresence, motion, useCycle } from "framer-motion";
 const links = [
   { name: "Home", to: "#home", id: 1 },
   { name: "About", to: "#about", id: 2 },
-  { name: "Achievement", to: "#services", id: 3 },
+  { name: "Achievement", to: "#achievement", id: 3 },
   { name: "Portfolio", to: "#portfolio", id: 4 },
   { name: "Contact", to: "#contact", id: 5 }
 ];
