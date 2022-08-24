@@ -70,7 +70,7 @@ export default function Navigation() {
               ))}
             </motion.div>
                        <motion.div className="follow">
-              <a href="https://www.linkedin.com/in/ajith-kr/" class="fab fa-linkedin"/>
+        
              <a href="https://github.com/ajithkr12" class="fab fa-github"/>
             </motion.div> 
           </motion.aside>
